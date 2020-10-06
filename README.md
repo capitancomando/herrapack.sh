@@ -19,4 +19,4 @@ $ ls
 $ bash herrapack.sh
 
 
-by: Capitán Comando
+creador: Capitán Comando
