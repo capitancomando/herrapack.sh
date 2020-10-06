@@ -1,2 +1,2 @@
-# herrapack.sh
+# herrapack
 script de  instalacion de herramientas basicas
