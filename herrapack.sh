@@ -1,6 +1,8 @@
 #!bin/bash
 #by:Capitán Comando
 
+clear
+
 echo -e "\e[33m+ by:Capitán Comando +\e[0m"
 echo -e "\e[33m#######################\e[0m"
 echo ""
@@ -52,7 +54,6 @@ echo $ pkg install python3 -y
 mydir=$(pkg install curl -y)
 echo $ pkg install curl -y
 
-
 " ########################################### "
 echo NAHFER LEGION DE LEGIONES  3xploit
 " ############################################ "
@@ -94,6 +95,29 @@ apto instalar apache2
 apto instalar cowsay
 cowsay 3xploit 
 figlet 3xploit
+
+pkg install perl
+
+pkg install git
+
+pkg install wget
+
+pkg install nano
+
+pkg install requests
+
+pip install requests
+
+pip2 install requests
+
+pkg install php
+
+pkg install curl
+
+pkg install openssl
+
+pkg install openssh
+
 " ########################## "
 echo Creado por: Capitan Comando
 " ########################## " 
