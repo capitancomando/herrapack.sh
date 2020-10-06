@@ -4,7 +4,7 @@ para termux.
 
 comandos de instalacion.
 
-$termux-setup-storage
+$ termux-setup-storage
 
 $ apt update && apt upgrade -y
 
