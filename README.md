@@ -12,6 +12,10 @@ $ pkg install git -y
 
 $ git clone https://github.com/capitancomando/herrapack.sh.git
 
+$ ls
+
+$ cd herrapack.sh
+
 $ chomod 711 herrapack.sh
 
 $ ls
