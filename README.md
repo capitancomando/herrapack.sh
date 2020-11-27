@@ -1,16 +1,16 @@
-# herrapack
-script de  instalacion de herramientas basicas
-para termux.
+*herrapack*
+*que es?* 
+*herrapack es un script de instalacion de herramientas basicas para termux.*
 
 comandos de instalacion.
 
-$ termux-setup-storage
+$ termux-configuración-almacenamiento
 
 $ apt update && apt upgrade -y
 
 $ pkg install git -y
 
-$ git clone https://github.com/capitancomando/herrapack.sh.git
+$ git clon https://github.com/capitancomando/herrapack.sh.git
 
 $ ls
 
@@ -22,5 +22,4 @@ $ ls
 
 $ bash herrapack.sh
 
-
-creador: Capitán Comando
+*creador: Capitán Comando*
