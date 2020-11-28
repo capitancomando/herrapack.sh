@@ -1,7 +1,7 @@
 *herrapack*
 *que es?* 
 *herrapack es un script de instalacion de herramientas basicas para termux.*
-
+*Tambien contiene botones especiales en tu terminal termux home* 
 comandos de instalacion.
 
 $ termux-configuración-almacenamiento
